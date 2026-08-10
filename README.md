@@ -67,9 +67,9 @@ The project uses a customer behavior dataset containing information about custom
 
 ### Dataset Source
 
-**Source:** `[Add Dataset Source]`
+**Source:** `Kaggle`
 
-**Dataset Link:** `[Add Dataset URL]`
+**Dataset Link:** (https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
 ---
 
