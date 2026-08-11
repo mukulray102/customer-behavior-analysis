@@ -139,18 +139,14 @@ The data model allows analysis across different dimensions, including:
 - Shipping types
 - Age groups
 
-### Data Model Structure
+# 👤 Author
+## Mukul Chandra Ray
 
-```text
-                    Customer Behavior Data
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-      Customer            Product             Metrics
-      Attributes          Attributes
-          │                   │                   │
-          ├── Age             └── Category        ├── Purchase Amount
-          ├── Gender                              └── Review Rating
-          ├── Subscription Status
-          ├── Payment Method
-          └── Shipping Type
+Aspiring Data Analyst / Data Scientist
+
+# Technical Skills
+
+Power BI • SQL • Python • Excel • Statistics • Data Visualization • Data Analysis
+
+## Connect With Me
+  *LinkedIn:* [www.linkedin.com/in/mukul-ray-stat]
